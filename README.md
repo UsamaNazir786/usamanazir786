@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Usama Nazir
 
-Welcome to my GitHub profile! I am currently pursuing a **Bachelor's in Artificial Intelligence**, with a passion for creating solutions that leverage data, algorithms, and innovative design. I have skills in several programming languages, design tools, and data platforms, making me a versatile contributor to AI and machine learning projects.
 
-![GitHub Banner](https://your-image-url.com/banner.png) <!-- Add a personalized banner -->
+
+![GitHub Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohamedelareeg&psig=AOvVaw3Be2EbvbtNZVD85-BZVs9K&ust=1729975618540000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjmjsGzqokDFQAAAAAdAAAAABAf) <!-- Add a personalized banner -->
 
 ---
 

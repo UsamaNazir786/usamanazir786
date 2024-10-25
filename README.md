@@ -2,7 +2,7 @@
 
 
 
-![GitHub Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohamedelareeg&psig=AOvVaw3Be2EbvbtNZVD85-BZVs9K&ust=1729975618540000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjmjsGzqokDFQAAAAAdAAAAABAf) <!-- Add a personalized banner -->
+![GitHub Banner](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif) <!-- Add a personalized banner -->
 
 ---
 

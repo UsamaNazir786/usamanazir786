@@ -30,7 +30,7 @@ I am committed to bridging the gap between AI technology and user-centered desig
 
 ## 🌐 Find Me Online
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.kaggle.com/yourprofile](https://www.linkedin.com/in/usama-nazir-0b186532b/))
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)
 
 ---

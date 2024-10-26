@@ -37,7 +37,7 @@ I am committed to bridging the gap between AI technology and user-centered desig
 ## 🏆 My Achievements
 
 - [Top Projects](https://github.com/yourusername/topproject)
-- [Certifications](https://www.yourcertificationlink.com)
+- [Certifications]( https://www.mygreatlearning.com/certificate/ZJQVRJMN)
 
 ---
 

@@ -30,7 +30,7 @@ I am committed to bridging the gap between AI technology and user-centered desig
 
 ## 🌐 Find Me Online
 
-[![LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![LinkedIn]([https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F23986970-linkedin-logo-png-linkedin-logo-transparent-png-linkedin-icon-transparent-free-png&psig=AOvVaw2FBWcSHK-J7aK7gilStp2X&ust=1730010030879000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOinsd2zq4kDFQAAAAAdAAAAABAE))
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)
 
 ---
